@@ -22,7 +22,7 @@ conf/mvnSeetings.xml     | 第三方库配置（C盘目录下必须也要有这�
 
 
 #### 五、备注
-本地安装maven的setting.xml中 servers节点需要配置maven仓库的用户名和密码
+1.本地安装maven的setting.xml中 servers节点需要配置maven仓库的用户名和密码
 ```
   <servers>
    <server>
@@ -32,5 +32,5 @@ conf/mvnSeetings.xml     | 第三方库配置（C盘目录下必须也要有这�
    </server>
   </servers>
 ``` 
-  
+ 2.目前仅支持包含完整jar包和pom文件的文件夹上传，单独jar文件上传暂不支持
   
