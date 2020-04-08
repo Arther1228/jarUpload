@@ -28,5 +28,5 @@ conf/mvnSeetings.xml     | 第三方库配置（C盘目录下必须也要有这�
 ``` 
 ##### 2、设置conf/app.properties中maven.repository.local上传文件夹路径，并在本地新建对应文件夹
 ##### 3、拷贝文件夹到maven.repository.local对应的文件夹中
-##### 4、运行 AppUploadJar.jar 的main函数
+##### 4、运行 AppUploadJar.java 的main函数
   
