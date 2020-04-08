@@ -18,3 +18,4 @@ shinyPlatform.iml
 Test.java
 logback-test.xml
 jarupload.iml
+/bin/
